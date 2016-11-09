@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\triangle\bin\Debug\triangle.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\triangle\bin\Debug\triangle.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\triangle\bin\Debug\triangle.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\triangle\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\triangle\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\triangle\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\triangle\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\triangle\obj\Debug\triangle.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\triangle\obj\Debug\triangle.pdb

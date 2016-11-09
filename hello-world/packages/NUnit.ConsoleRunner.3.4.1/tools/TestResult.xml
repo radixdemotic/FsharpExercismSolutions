@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="3" result="Passed" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="3" engine-version="3.4.1.0" clr-version="4.0.30319.42000" start-time="2016-08-14 21:02:14Z" end-time="2016-08-14 21:02:14Z" duration="0.103032">
+  <command-line><![CDATA[nunit3-console  A:\Programming\FSharp\Exercism\fsharp\hello-world\hello-world\bin\Debug\hello_world.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1004" name="hello_world.dll" fullname="A:\Programming\FSharp\Exercism\fsharp\hello-world\hello-world\bin\Debug\hello_world.dll" runstate="Runnable" testcasecount="3" result="Passed" start-time="2016-08-14 21:02:14Z" end-time="2016-08-14 21:02:14Z" duration="0.064814" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="3">
+    <environment framework-version="3.4.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.10586.0" platform="Win32NT" cwd="A:\Programming\FSharp\Exercism\fsharp\hello-world\hello-world\packages\NUnit.ConsoleRunner.3.4.1\tools" machine-name="AUGUST" user="radixdemotic" user-domain="AUGUST" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="A:\Programming\FSharp\Exercism\fsharp\hello-world\hello-world\packages\NUnit.ConsoleRunner.3.4.1\tools" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.6.1" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="6" />
+    </settings>
+    <properties>
+      <property name="_PID" value="11688" />
+      <property name="_APPDOMAIN" value="test-domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1005" name="Exercism" fullname="Exercism" runstate="Runnable" testcasecount="3" result="Passed" start-time="2016-08-14 21:02:14Z" end-time="2016-08-14 21:02:14Z" duration="0.041957" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="3">
+      <test-suite type="TestFixture" id="0-1000" name="HelloWorldTest" fullname="Exercism.HelloWorldTest" classname="Exercism.HelloWorldTest" runstate="Runnable" testcasecount="3" result="Passed" start-time="2016-08-14 21:02:14Z" end-time="2016-08-14 21:02:14Z" duration="0.037115" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="3">
+        <test-case id="0-1001" name="No name" fullname="Exercism.HelloWorldTest.No name" methodname="No name" classname="Exercism.HelloWorldTest" runstate="Runnable" seed="154835274" result="Passed" start-time="2016-08-14 21:02:14Z" end-time="2016-08-14 21:02:14Z" duration="0.017855" asserts="1" />
+        <test-case id="0-1003" name="Other sample name" fullname="Exercism.HelloWorldTest.Other sample name" methodname="Other sample name" classname="Exercism.HelloWorldTest" runstate="Runnable" seed="1378590049" result="Passed" start-time="2016-08-14 21:02:14Z" end-time="2016-08-14 21:02:14Z" duration="0.000466" asserts="1" />
+        <test-case id="0-1002" name="Sample name" fullname="Exercism.HelloWorldTest.Sample name" methodname="Sample name" classname="Exercism.HelloWorldTest" runstate="Runnable" seed="779513065" result="Passed" start-time="2016-08-14 21:02:14Z" end-time="2016-08-14 21:02:14Z" duration="0.000251" asserts="1" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

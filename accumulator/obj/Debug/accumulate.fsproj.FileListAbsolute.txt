@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\accumulator\bin\Debug\accumulator.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\accumulator\bin\Debug\accumulator.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\accumulator\bin\Debug\accumulator.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\accumulator\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\accumulator\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\accumulator\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\accumulator\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\accumulator\obj\Debug\accumulator.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\accumulator\obj\Debug\accumulator.pdb

@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\GradeSchool\bin\Debug\GradeSchool.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\GradeSchool\bin\Debug\GradeSchool.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\GradeSchool\bin\Debug\GradeSchool.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\GradeSchool\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\GradeSchool\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\GradeSchool\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\GradeSchool\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\GradeSchool\obj\Debug\GradeSchool.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\GradeSchool\obj\Debug\GradeSchool.pdb

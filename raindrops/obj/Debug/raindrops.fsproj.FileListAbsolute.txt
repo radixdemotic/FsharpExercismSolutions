@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\raindrops\bin\Debug\raindrops.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\raindrops\bin\Debug\raindrops.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\raindrops\bin\Debug\raindrops.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\raindrops\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\raindrops\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\raindrops\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\raindrops\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\raindrops\obj\Debug\raindrops.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\raindrops\obj\Debug\raindrops.pdb

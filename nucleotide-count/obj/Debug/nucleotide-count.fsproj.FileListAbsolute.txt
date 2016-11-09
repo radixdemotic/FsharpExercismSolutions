@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\nucleotide-count\bin\Debug\nucleotide_count.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\nucleotide-count\bin\Debug\nucleotide_count.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\nucleotide-count\bin\Debug\nucleotide_count.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\nucleotide-count\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\nucleotide-count\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\nucleotide-count\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\nucleotide-count\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\nucleotide-count\obj\Debug\nucleotide_count.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\nucleotide-count\obj\Debug\nucleotide_count.pdb

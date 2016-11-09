@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\protein-translation\bin\Debug\protein_translation.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\protein-translation\bin\Debug\protein_translation.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\protein-translation\bin\Debug\protein_translation.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\protein-translation\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\protein-translation\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\protein-translation\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\protein-translation\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\protein-translation\obj\Debug\protein_translation.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\protein-translation\obj\Debug\protein_translation.pdb

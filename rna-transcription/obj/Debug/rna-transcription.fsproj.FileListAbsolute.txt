@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\rna-transcription\bin\Debug\rna_transcription.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\rna-transcription\bin\Debug\rna_transcription.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\rna-transcription\bin\Debug\rna_transcription.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\rna-transcription\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\rna-transcription\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\rna-transcription\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\rna-transcription\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\rna-transcription\obj\Debug\rna_transcription.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\rna-transcription\obj\Debug\rna_transcription.pdb

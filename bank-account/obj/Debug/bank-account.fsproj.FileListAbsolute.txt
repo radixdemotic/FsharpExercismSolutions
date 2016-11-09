@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bank-account\bin\Debug\bank_account.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bank-account\bin\Debug\bank_account.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bank-account\bin\Debug\bank_account.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bank-account\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bank-account\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bank-account\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bank-account\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bank-account\obj\Debug\bank_account.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bank-account\obj\Debug\bank_account.pdb

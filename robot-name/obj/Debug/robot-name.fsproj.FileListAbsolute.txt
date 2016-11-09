@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\robot-name\bin\Debug\robot_name.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\robot-name\bin\Debug\robot_name.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\robot-name\bin\Debug\robot_name.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\robot-name\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\robot-name\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\robot-name\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\robot-name\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\robot-name\obj\Debug\robot_name.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\robot-name\obj\Debug\robot_name.pdb

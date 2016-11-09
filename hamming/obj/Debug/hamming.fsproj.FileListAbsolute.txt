@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\hamming\bin\Debug\hamming.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\hamming\bin\Debug\hamming.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\hamming\bin\Debug\hamming.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\hamming\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\hamming\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\hamming\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\hamming\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\hamming\obj\Debug\hamming.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\hamming\obj\Debug\hamming.pdb

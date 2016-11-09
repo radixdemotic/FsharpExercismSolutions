@@ -1,0 +1,7 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\queenattack\bin\Debug\queenattack.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\queenattack\bin\Debug\queenattack.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\queenattack\bin\Debug\queenattack.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\queenattack\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\queenattack\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\queenattack\obj\Debug\queenattack.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\queenattack\obj\Debug\queenattack.pdb

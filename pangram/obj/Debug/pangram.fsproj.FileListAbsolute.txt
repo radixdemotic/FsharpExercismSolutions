@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\pangram\bin\Debug\pangram.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\pangram\bin\Debug\pangram.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\pangram\bin\Debug\pangram.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\pangram\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\pangram\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\pangram\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\pangram\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\pangram\obj\Debug\pangram.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\pangram\obj\Debug\pangram.pdb

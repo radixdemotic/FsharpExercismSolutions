@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\BeerSong\bin\Debug\BeerSong.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\BeerSong\bin\Debug\BeerSong.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\BeerSong\bin\Debug\BeerSong.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\BeerSong\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\BeerSong\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\BeerSong\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\BeerSong\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\BeerSong\obj\Debug\BeerSong.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\BeerSong\obj\Debug\BeerSong.pdb

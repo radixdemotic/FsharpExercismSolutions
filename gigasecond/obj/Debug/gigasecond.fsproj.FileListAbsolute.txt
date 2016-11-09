@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\gigasecond\bin\Debug\gigasecond.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\gigasecond\bin\Debug\gigasecond.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\gigasecond\bin\Debug\gigasecond.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\gigasecond\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\gigasecond\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\gigasecond\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\gigasecond\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\gigasecond\obj\Debug\gigasecond.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\gigasecond\obj\Debug\gigasecond.pdb

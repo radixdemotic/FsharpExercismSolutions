@@ -1,0 +1,9 @@
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bob\bin\Debug\bob.XML
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bob\bin\Debug\bob.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bob\bin\Debug\bob.pdb
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bob\bin\Debug\FSharp.Core.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bob\bin\Debug\nunit.framework.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bob\bin\Debug\FSharp.Core.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bob\bin\Debug\nunit.framework.xml
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bob\obj\Debug\bob.dll
+A:\Programming\FSharp\Exercism\fsharp\ExercismSolution\bob\obj\Debug\bob.pdb
